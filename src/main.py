@@ -2,7 +2,7 @@ from PySide6.QtGui import QIcon
 from PySide6.QtWidgets import QApplication, QSystemTrayIcon
 
 # Create the icon
-icon = QIcon("icon.ico")
+icon = QIcon("extra/icon.ico")
 
 # Create the tray
 tray = QSystemTrayIcon()
